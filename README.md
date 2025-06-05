@@ -29,7 +29,7 @@ A sophisticated multi-personality chatbot system built with Python and Streamlit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gpt-chatbot-system.git
+   git clone https://github.com/usufxrex/gpt-chatbot-system.git
    cd gpt-chatbot-system
    ```
 
